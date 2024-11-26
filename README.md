@@ -56,6 +56,7 @@ module "influxdb" {
     Environment = "production"
   }
 }
+```
 
 ## Outputs
 
